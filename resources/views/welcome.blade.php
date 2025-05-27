@@ -23,7 +23,7 @@
     <nav class="navbar" style="background: linear-gradient(90deg, #EB6060 0%, #3A8DFF 100%);">
         <div class="container justify-content-center">
             <a class="navbar-brand" href="#">
-                <img src="{{ asset('img/logo.png') }}" alt="Bootstrap" width="300" height="100">
+                <img src="{{ asset('img/img2.jpg') }}" alt="Bootstrap" width="700" height="100">
             </a>
         </div>
     </nav>
@@ -38,21 +38,21 @@
                     <center>AGAR DAPAT TERHUBUNG DENGAN KONSULTAN KAMI</center>
                 </h5>
                 <br>
-                <div class="card" style="width: 500px;height: 100px; margin: auto;box-shadow: 0 4px 8px rgb(255, 255, 255); border: 2px solid transparent;">
+                <div  style="height: 100px; margin: auto;box-shadow: 0 4px 8px rgb(255, 255, 255); border: 2px solid transparent;">
 
                     <img id="panah-anim" src="{{ asset('img/panah.png') }}" alt="Bootstrap" width="300" height="100" class="d-block mx-auto ">
 
                 </div>
                 <br>
                 <div class="d-flex justify-content-center align-items-center" style="height: 50px;">
-                    <a href="https://wa.me/082319177519" target="_blank" class="btn btn-success custom-shadow" style="height: 40px; border-radius: 30px; display: flex; align-items: center; justify-content: center; padding: 0 40px;">
+                    <a href="https://wa.me/085381961299" target="_blank" class="btn  custom-shadow" style="background-color:blue;color:white;height: 40px; border-radius: 30px; display: flex; align-items: center; justify-content: center; padding: 0 40px;">
 
 
                         <b>HUBUNGI KONSULTAN SEKARANG</b>
                     </a>
                 </div>
                 <br>
-                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                {{-- <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -60,13 +60,15 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block w-100" src="{{ asset('img/lepasriba.jpeg') }}" alt="First slide">
+                            <img class="d-block w-50" src="{{ asset('') }}" alt="First slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="{{ asset('template/assets/imgs/img-1.jpg') }}" alt="Second slide">
+                            <img class="d-block w-50" src="{{ asset('img/img2.jpg') }}" alt="Second slide">
+
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="{{ asset('template/assets/imgs/img-2.jpg') }}" alt="Third slide">
+                            <img class="d-block w-50" src="{{ asset('img/img3.jpg') }}" alt="Third slide">
+
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -77,7 +79,7 @@
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="sr-only">Next</span>
                     </a>
-                </div>
+                </div> --}}
 
 
 
@@ -86,9 +88,9 @@
 
     </div>
     <div class="container text-center">
-        <h3 style="font-weight: bold; text-shadow: 2px 2px 6px rgba(0,0,0,0.3);margin-top:40px;">1.000 Orang Alhamdulillah Sudah Praktek & Sudah <br> Terbantu Secara Nyata! </h3>
+        <h3 style="font-weight: bold; text-shadow: 2px 2px 6px rgba(0,0,0,0.3);margin-top:40px;">Lepasriba.com telah berpraktek selama 10 Tahun dan <br> telah menangani lebih dari 2000 klien di seluruh indonesia</h3>
 
-        <h5 style="font-weight: bold; text-shadow: 1px 1px 4px rgba(0,0,0,0.2);">DAN ALHAMDULILLAH MELALUI DLR SUDAH BEBERAPA CLIENT MENJADI MUALAF</h5>
+        {{-- <h5 style="font-weight: bold; text-shadow: 1px 1px 4px rgba(0,0,0,0.2);">DAN ALHAMDULILLAH MELALUI DLR SUDAH BEBERAPA CLIENT MENJADI MUALAF</h5> --}}
 
         <br>
 
@@ -97,21 +99,21 @@
         <!-- row -->
 
         <p class="section-subtitle mt-5">Dan Hasilnya Mereka bisa merasakan bahagianya <b>TERBEBAS Dari Utang Riba Ratusan Juta Hingga Miliaran Rupiah, </b>
-            Hidup TENANG, Keluarga Harmonis, dan Bisnis BERKEMBANG Dapatkan Kesempatan Untuk Berkonsultasi Langsung di Office Dakwah Lepas Riba</p>
+            Hidup TENANG, Keluarga Harmonis, dan Bisnis BERKEMBANG Dapatkan Kesempatan Untuk Berkonsultasi Langsung di kantor Lepasriba.com</p>
 
     </div>
 
     <footer style="background: linear-gradient(90deg, #EB6060 0%, #3A8DFF 100%); color: #fff; padding: 32px 0 16px 0; margin-top: 40px; box-shadow: 0 -4px 16px rgba(58,141,255,0.15); position: relative;">
         <div class="container text-center">
             <div style="font-size: 1.3rem; font-weight: bold; letter-spacing: 2px; margin-bottom: 8px;">
-                Lepas Riba
+                Lepasriba.com
             </div>
             <div style="font-size: 1rem; opacity: 0.85; margin-bottom: 8px;">
-                Solusi Konsultasi Keuangan Syariah Anda
+                Gak bosan terjerat terus? Yuk, konsultasi dengan kami untuk lepas dari jeratan riba!
             </div>
             <hr style="border-top: 1px solid rgba(255,255,255,0.2); width: 60%; margin: 16px auto;">
             <div style="font-size: 0.95rem;">
-                &copy; {{ date('Y') }} Lepas Riba. All rights reserved.
+                &copy; {{ date('Y') }} Lepasriba.com
             </div>
         </div>
         <svg viewBox="0 0 120 10" preserveAspectRatio="none" style="display:block;width:100%;height:30px;position:absolute;top:-30px;left:0;">
@@ -122,9 +124,7 @@
     
   
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="{{asset('template/assets/vendors/jquery/jquery-3.4.1.js')}}"></script>
 
     <script>
         $(document).ready(function() {
