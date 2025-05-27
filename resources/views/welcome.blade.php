@@ -94,8 +94,8 @@
 
         <br>
 
-        <iframe width="300" height="711" src="https://www.youtube.com/embed/kXQGPp8Jtnw" title="Setelah proses dengan Dakwah Lepas Riba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <iframe width="300" height="711" src="https://www.youtube.com/embed/kXQGPp8Jtnw" title="Setelah proses dengan Dakwah Lepas Riba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="300" height="711" src="https://youtube.com/shorts/ZQPTeqSELaI?si=mfaWeBYCkDM6Yadj" title="Setelah proses dengan Dakwah Lepas Riba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        {{-- <iframe width="300" height="711" src="https://www.youtube.com/embed/kXQGPp8Jtnw" title="Setelah proses dengan Dakwah Lepas Riba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> --}}
         <!-- row -->
 
         <p class="section-subtitle mt-5">Dan Hasilnya Mereka bisa merasakan bahagianya <b>TERBEBAS Dari Utang Riba Ratusan Juta Hingga Miliaran Rupiah, </b>
