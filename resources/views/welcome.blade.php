@@ -23,7 +23,7 @@
     <nav class="navbar" style="background: linear-gradient(90deg, #EB6060 0%, #3A8DFF 100%);">
         <div class="container justify-content-center">
             <a class="navbar-brand" href="#">
-                <img src="{{ asset('img/img2.jpg') }}" alt="Bootstrap" width="700" height="100">
+                <img src="{{ asset('img/img2.jpg') }}" alt="Bootstrap" width="auto" height="100">
             </a>
         </div>
     </nav>
@@ -32,7 +32,7 @@
             <div class="col-md-12">
 
                 <h3 style="font-weight: bold; text-shadow: 2px 2px 6px rgba(0,0,0,0.3);margin-top:40px;">
-                    <center>KLIK TOMBOL DI BAWAH INI <br> SEKARANG JUGA!</center>
+                    <center>KLIK TOMBOL DI BAWAH INI SEKARANG JUGA!</center>
                 </h3>
                 <h5 style="font-weight: bold; text-shadow: 1px 1px 4px rgba(0,0,0,0.2);">
                     <center>AGAR DAPAT TERHUBUNG DENGAN KONSULTAN KAMI</center>
