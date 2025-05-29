@@ -45,7 +45,7 @@
                 </div>
                 <br>
                 <div class="d-flex justify-content-center align-items-center" style="height: 50px;">
-                    <a href="https://wa.me/085381961299" target="_blank" class="btn  custom-shadow" style="background-color:blue;color:white;height: 40px; border-radius: 30px; display: flex; align-items: center; justify-content: center; padding: 0 40px;">
+                    <a href="https://wa.me/+6285381961299" target="_blank" class="btn  custom-shadow" style="background-color:blue;color:white;height: 40px; border-radius: 30px; display: flex; align-items: center; justify-content: center; padding: 0 40px;">
 
 
                         <b>HUBUNGI KONSULTAN SEKARANG</b>
@@ -94,7 +94,9 @@
 
         <br>
 
-        <iframe width="400" height="711" src="https://www.youtube.com/embed/ZQPTeqSELaI" title="Setelah proses dengan Dakwah Lepas Riba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="400" height="711" src="https://youtube.com/embed/cvTZ6dCtOZM?si=sI0qR5j0Q98xQFfz" title="Setelah proses dengan Dakwah Lepas Riba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
         {{-- <iframe width="300" height="711" src="https://www.youtube.com/embed/kXQGPp8Jtnw" title="Setelah proses dengan Dakwah Lepas Riba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> --}}
         <!-- row -->
 
