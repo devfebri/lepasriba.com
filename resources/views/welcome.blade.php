@@ -94,7 +94,7 @@
 
         <br>
 
-        <iframe width="400" height="711" src="https://youtube.com/embed/cvTZ6dCtOZM?si=sI0qR5j0Q98xQFfz" title="Setelah proses dengan Dakwah Lepas Riba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe height="711" src="https://youtube.com/embed/cvTZ6dCtOZM?si=sI0qR5j0Q98xQFfz" title="Setelah proses dengan Dakwah Lepas Riba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
         {{-- <iframe width="300" height="711" src="https://www.youtube.com/embed/kXQGPp8Jtnw" title="Setelah proses dengan Dakwah Lepas Riba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> --}}
